@@ -1,5 +1,8 @@
 {
     "name": "necmicolak/yahoo-finance",
+    "type": "library",
+    "homepage": "https://github.com/necmicolak/YahooFinancePHP",
+    "license": "MIT",
     "description": "Yahoo Finance Unofficial API",
     "autoload": {
         "psr-4": {

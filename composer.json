@@ -1,0 +1,18 @@
+{
+    "name": "necmicolak/yahoo-finance",
+    "description": "Yahoo Finance Unofficial API",
+    "autoload": {
+        "psr-4": {
+            "Necmicolak\\YahooFinance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "necmicolak",
+            "email": "hi@necmi.dev"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}

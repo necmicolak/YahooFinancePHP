@@ -95,5 +95,4 @@ $asset->getChart();
   "timestamp" => [] // timestamp values
   "values" => [] // asset values same count timestamp
 ]
-*/
 ```

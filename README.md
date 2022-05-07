@@ -1,6 +1,11 @@
 # YahooFinancePHP
 Yahoo finance unofficial API PHP package
 
+# Installation
+```
+composer require necmicolak/yahoo-finance
+```
+
 # Usage
 
 # Search Currency, stocks etc.
